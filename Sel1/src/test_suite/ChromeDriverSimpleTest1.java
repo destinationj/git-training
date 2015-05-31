@@ -1,4 +1,3 @@
-/* This is a comment for ChromeDriver class test */
 package test_suite;
 
 import org.openqa.selenium.WebDriver;
